@@ -1,16 +1,17 @@
-## Hi there 👋
+# react-editor-js example
 
-<!--
-**krisxbr/krisxbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is an example repo for [react-editor-js](https://github.com/natterstefan/react-editor-js),
+which can be used to create codesandbox projects.
 
-Here are some ideas to get you started:
+## Code with Codesandbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Use the button below to create a codesandbox:
+
+[![Edit blog](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/natterstefan/react-editor-js-example/tree/master)
+
+A template on codesandbox can be found [here](https://codesandbox.io/s/editorjs-react-editor-js-example-with-custom-react-component-template-8md15).
+
+## References
+
+- [editor.js](https://editorjs.io/)
+- [codesandbox - Import from GitHub](https://codesandbox.io/docs/importing)
